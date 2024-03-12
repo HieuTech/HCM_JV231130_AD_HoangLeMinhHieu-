@@ -1,41 +1,6 @@
 {
   "users": [
     {
-      "fullName": "test",
-      "email": "123",
-      "date": "",
-      "address": "",
-      "id": "363f"
-    },
-    {
-      "fullName": "Hoang Le Minh Hieuasd",
-      "email": "wdasd@gmail.com",
-      "date": "",
-      "address": "150/Nguyen Van Cu\nLong Toan Ward",
-      "id": "641c"
-    },
-    {
-      "id": "87d3",
-      "fullName": "Hoang Le Minh Hieu",
-      "email": "spring@gmail.com",
-      "date": "",
-      "address": "150/Nguyen Van Cu\nLong Toan Ward"
-    },
-    {
-      "fullName": "Hoang Le Minh Hieu",
-      "email": "minhhieustock@gmail.com",
-      "date": "",
-      "address": "150/Nguyen Van Cu\nLong Toan Ward",
-      "id": "92a8"
-    },
-    {
-      "id": "30e5",
-      "fullName": "Hoang Le Minh Hieu",
-      "email": "spring@gmail.com",
-      "date": "",
-      "address": "150/Nguyen Van Cu\nLong Toan Ward"
-    },
-    {
       "id": "dd28",
       "fullName": "Hoang Le Minh Hieu",
       "email": "test@gmail.com",
@@ -69,6 +34,13 @@
       "email": "test@gmail.com",
       "date": "",
       "address": ""
+    },
+    {
+      "id": "20d2",
+      "fullName": "Hoang Le Minh Hieu111",
+      "email": "java@gmail.com",
+      "date": "",
+      "address": "150/Nguyen Van Cu\nLong Toan Ward"
     }
   ]
 }
